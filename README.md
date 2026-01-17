@@ -1,6 +1,21 @@
 ## AI 学术写作助手
 
 专业论文润色与语言优化系统
+
+### 📚 实现原理文档
+
+想了解本项目如何降低 AI 检测率？查看详细的技术实现文档：
+
+- **[中文版：AI 内容检测率降低实现方案详解](AI_DETECTION_REDUCTION_IMPLEMENTATION.md)**
+- **[English Version: AI Detection Reduction Implementation Guide](AI_DETECTION_REDUCTION_IMPLEMENTATION_EN.md)**
+
+文档内容包括：
+- 🎯 核心原理与策略分析
+- 🔧 双阶段处理系统详解
+- 📝 详细的提示词工程
+- 💻 技术架构与代码实现
+- 📊 实际案例与效果展示
+- ✅ 最佳实践指南
 <img width="2080" height="1361" alt="图片" src="https://github.com/user-attachments/assets/c11abdc9-4bc4-4d61-bea0-13071dba01cd" />
 
 <img width="2103" height="1337" alt="图片" src="https://github.com/user-attachments/assets/523da9c2-899d-4739-932e-84af881a1dfd" />
